@@ -1,5 +1,7 @@
 # API Validadora de E-mails
 
+[![CI](https://github.com/Tinho2508/validador-email-docker/actions/workflows/ci.yml/badge.svg)](https://github.com/Tinho2508/validador-email-docker/actions/workflows/ci.yml)
+
 API RESTful simples em **Python/Flask** para validação de formato e domínio de
 endereços de e-mail, empacotada com **Docker** e com **testes automatizados**
 executados via **CI/CD** (GitHub Actions).
@@ -75,7 +77,7 @@ Resposta:
 ## 📂 Estrutura do projeto
 
 ```
-email-validator-api/
+validador-email-docker/
 ├── app.py                     # Aplicação Flask
 ├── tests/
 │   └── test_app.py            # Testes automatizados (pytest)
@@ -88,4 +90,3 @@ email-validator-api/
 ## 👤 Autor
 
 José Ailton F. da Silva — [LinkedIn](https://linkedin.com/in/jose-ailton-fda-silva) · [GitHub](https://github.com/Tinho2508)
-# validador-email-docker
