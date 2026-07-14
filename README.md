@@ -88,3 +88,4 @@ email-validator-api/
 ## 👤 Autor
 
 José Ailton F. da Silva — [LinkedIn](https://linkedin.com/in/jose-ailton-fda-silva) · [GitHub](https://github.com/Tinho2508)
+# validador-email-docker
